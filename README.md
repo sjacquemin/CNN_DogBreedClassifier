@@ -13,6 +13,8 @@ Welcome to my Convolutional Neural Networks (CNN) project, part of my Deep Learn
 
 Below are the original readme instructions supplied for the project.  This github repository is designed for a review of my project versus allowing you to run the code yourself from start-to-finish.  This is not recommended due to the extremely large size of the original dataset (all of the images).  If there is a need, I am happy to review the code and/or run the program via screenshare.
 
+Proceed to the 'dog_app.ipynb' to review the project.
+
 Thank you and please reach out to me at stephen.jacquemin@gmail.com if you should have any questions.
 
 
