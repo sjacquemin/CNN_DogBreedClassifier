@@ -7,11 +7,11 @@
 
 ## Project Overview
 
-Welcome to my Convolutional Neural Networks (CNN) project in the AI Nanodegree. In this project, I built a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, the algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
+Welcome to my Convolutional Neural Networks (CNN) project, part of my Deep Learning Nanodegree. In this project, I built a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, the algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
 ![Sample Output][image1]
 
-Below are the original readme instructions supplied for the project.  This github is designed for review of my project versus allowing you to run the code yourself from start-to-finish.  This is recommended due to the extremely large size of the original dataset (all of the images).  If there is a need, I am happy to review the code and/or run the program via screenshare.
+Below are the original readme instructions supplied for the project.  This github repository is designed for a review of my project versus allowing you to run the code yourself from start-to-finish.  This is not recommended due to the extremely large size of the original dataset (all of the images).  If there is a need, I am happy to review the code and/or run the program via screenshare.
 
 Thank you and please reach out to me at stephen.jacquemin@gmail.com if you should have any questions.
 
